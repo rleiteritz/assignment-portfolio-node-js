@@ -139,3 +139,5 @@ app.listen(port, () => console.log(
   `Express started at \"http://localhost:${port}\"\n` +
   `press Ctrl-C to terminate.`)
 )
+
+app.use(express.static(__dirname + '/portfolio'))

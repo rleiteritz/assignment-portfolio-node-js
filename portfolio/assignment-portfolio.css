@@ -1,0 +1,23 @@
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h2 {
+    text-align: left;
+    text-decoration: underline;
+    
+}
+
+#container {
+    margin-left: auto;
+    background-color: aqua;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
